@@ -1,4 +1,4 @@
- Hi, I'm Dipesh Gunjal 👋
+ii Hi, I'm Dipesh Gunjal 👋
 
 Aspiring Data Analyst | Python Developer | BCA Student
 
@@ -107,4 +107,13 @@ To begin my professional journey as a Data Analyst, apply my analytical and tech
 
 ---
 
-⭐ "Turning data into insights and insights into better decisions."
+⭐ "Turning data into insights and insights into better decisions." 
+
+
+## 💻 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB)
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipeshgunjal62940-svg&theme=tokyonight)
